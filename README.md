@@ -7,11 +7,11 @@
 
 ## Projects
 1. ☘️ 이미지 기반 유사도 평가
-- 거리 이미지 간 유사도 정량화 및 시각화 시스템 구축 (TripletNet + ResNet50 + Cosine Similarity)
-- 2024년 03월 ~ 2024년 12월 (10개월)
-- 단독 수행 (석사 학위 논문)
-- Python, TensorFlow, scikit-learn, OpenCV
-- [상세 보기](링크)
+  - 거리 이미지 간 유사도 정량화 및 시각화 시스템 구축 (TripletNet + ResNet50 + Cosine Similarity)
+  - 2024년 03월 ~ 2024년 12월 (10개월)
+  - 단독 수행 (석사 학위 논문)
+  - Python, TensorFlow, scikit-learn, OpenCV
+  - [상세 보기](링크)  
 
 
 2. 🚶🏻 회귀 모델 기반 예측 및 모델 해석
