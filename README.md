@@ -12,7 +12,7 @@
   - 2024년 03월 ~ 2024년 12월 (10개월)
   - 단독 수행 (석사 학위 논문)
   - Python, TensorFlow, scikit-learn, OpenCV
-  - [상세 보기](링크)<br><br>
+  - [상세 보기](https://github.com/Jyeon-H/TripletNet)<br><br>
   
   
 2. 🚶🏻 회귀 모델 기반 예측 및 모델 해석
@@ -20,7 +20,7 @@
 - 2024년 01월 ~ 2024년 05월 (5개월)
 - 협업 수행 (SCI(E) 논문 게재)
 - Python, PyTorch, MMSegmentation, XGBoost, SHAP
-- [상세 보기](링크)<br><br>
+- [논문 보기](https://doi.org/10.3390/app14104079)<br><br>
   
   
 3. 🏙️ 수치 데이터 시각화
@@ -28,7 +28,7 @@
 - 2023년 07월 ~ 2023년 12월 (5개월)
 - 협업 수행 (KCI 논문 게재)
 - Python, Flask, OpenCV, Matplotlib
-- [상세 보기](링크)<br><br>
+- [논문 보기](http://dx.doi.org/10.9723/jksiis.2023.28.6.045)<br><br>
   
   
 4. 🔢 객체 탐지 및 숫자 인식
@@ -36,7 +36,7 @@
 - 2022년 07월 ~ 2022년 12월 (5개월)
 - 단독 수행 (학부 졸업 프로젝트)
 - Python, OpenCV, Matplotlib, YOLOv5
-- [상세 보기](링크)<br><br>
+- [상세 보기](https://github.com/Jyeon-H/GasMeter)<br><br>
   
     
 5. 😷 시계열 데이터 기반 예측
@@ -44,7 +44,7 @@
 - 2021년 10월 ~ 2021년 10월 (무박3일 해커톤)
 - 협업 수행
 - Python, Keras, Matplotlib, MySQL
-- [상세 보기](링크)<br><br>
+- [코드 정리중]<br><br>
   
     
 6. 🪰 기상 정보를 활용한 병해충 발생 예측
@@ -53,5 +53,4 @@
 - 2021년 07월 ~ 2021년 08월 (총 2개월)
 - 협업 수행 (교외 교육 팀 프로젝트)
 - Python, Pandas, scikit-learn, Streamlit, MySQL
-- [상세 보기](링크)
-
+- [코드 정리중]
