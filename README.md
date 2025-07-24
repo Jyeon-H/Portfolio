@@ -20,7 +20,8 @@
 - 2024년 01월 ~ 2024년 05월 (5개월)
 - 협업 수행 (SCI(E) 논문 게재)
 - Python, PyTorch, MMSegmentation, XGBoost, SHAP
-- [논문 보기](https://doi.org/10.3390/app14104079)<br><br>
+- [논문 보기](https://doi.org/10.3390/app14104079)
+- [상세 보기](https://github.com/Jyeon-H/Regression)<br><br>
   
   
 **3. 🏙️ 수치 데이터 시각화**
@@ -28,7 +29,8 @@
 - 2023년 07월 ~ 2023년 12월 (5개월)
 - 협업 수행 (KCI 논문 게재)
 - Python, Flask, OpenCV, Matplotlib
-- [논문 보기](http://dx.doi.org/10.9723/jksiis.2023.28.6.045)<br><br>
+- [논문 보기](http://dx.doi.org/10.9723/jksiis.2023.28.6.045)
+- [상세 보기](https://github.com/Jyeon-H/WebVisualization)<br><br>
   
   
 **4. 🔢 객체 탐지 및 숫자 인식**
